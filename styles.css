@@ -6,6 +6,10 @@ li {
     padding-top: 1em;
 }
 
+a { 
+    text-decoration: none; 
+}
+
 .flex-container-row {
     display: flex;
     position: absolute;
